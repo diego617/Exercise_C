@@ -22,7 +22,7 @@ namespace Exercise {
                 Console.WriteLine(messge);
             }
             
-            Console.WriteLine("Hello world");
+           
             Console.ReadKey();
         }
     }
